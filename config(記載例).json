@@ -1,0 +1,35 @@
+{
+  "username": "hamikuma",
+  "password": "p@ssw0rd",
+  "instances": [
+    {
+      "worldId": "wrld_2df3865e-1c64-4f7f-aa7f-2ac656243c96",
+      "instanceType": "group+",
+      "region": "jp",
+      "groupId": "grp_2b9c4698-9e5f-445f-8900-4e576c8b5f6e",
+      "ageGate": false,
+      "queueEnabled": true
+    },
+    {
+      "userId": "usr_othera7c-ca5b-445b-b2bd-902fc16fd3e4",
+      "worldId": "wrld_2df3865e-1c64-4f7f-aa7f-2ac656243c96",
+      "instanceType": "group",
+      "region": "jp",
+      "groupId": "grp_2b9c4698-9e5f-445f-8900-4e576c8b5f6e",
+      "roleNames": ["Group Owner", "Member"],
+      "ageGate": false,
+      "queueEnabled": true
+    },
+    {
+      "worldId": "wrld_2df3865e-1c64-4f7f-aa7f-2ac656243c96",
+      "instanceType": "friends",
+      "region": "jp" 
+    },
+    {
+      "userId": "usr_othera7c-ca5b-445b-b2bd-902fc16fd3e4",
+      "worldId": "wrld_2df3865e-1c64-4f7f-aa7f-2ac656243c96",
+      "instanceType": "invite+",
+      "region": "jp" 
+    } 
+  ]
+}

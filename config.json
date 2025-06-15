@@ -1,0 +1,18 @@
+{
+  "username": "kiligamine",
+  "password": "kiri0313",
+  "instances": [
+    {
+      "userId": "usr_4931840d-3b69-4105-80ec-5db8758a7956",
+      "worldId": "wrld_2df3865e-1c64-4f7f-aa7f-2ac656243c96",
+      "instanceType": "invite+",
+      "region": "jp" 
+    } ,
+    {
+      "userId": "usr_4931840d-3b69-4105-80ec-5db8758a7956",
+      "worldId": "wrld_2df3865e-1c64-4f7f-aa7f-2ac656243c96",
+      "instanceType": "friends",
+      "region": "jp" 
+    } 
+  ]
+}

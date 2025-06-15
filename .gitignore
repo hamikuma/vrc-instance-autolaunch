@@ -1,0 +1,8 @@
+build/
+dist/
+*.exe
+*.spec
+__pycache__/
+.vscode/
+favicon.ico
+memo.txt
