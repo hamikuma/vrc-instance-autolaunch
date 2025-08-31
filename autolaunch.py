@@ -3,6 +3,7 @@
 import requests
 import json
 import sys
+import time
 from utils import log_success, log_failure, get_config_path, get_session_path, invite_myself, invite_other
 
 # --- 設定ファイル読み込み ---
@@ -177,7 +178,7 @@ for idx, instance in enumerate(instances, 1):
         invite_myself(session, instance_id_full)
     
     print(instance_id_full)
-    
-print("\n✅ すべてのインスタンス立上げが完了しました！")
-input("終了します。ウィンドウを閉じてください。")
+
+print("\n✅ すべての投稿が完了しました！10秒後にスクリプトを終了します")
+time.sleep(10)
 sys.exit()
